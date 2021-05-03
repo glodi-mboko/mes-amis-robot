@@ -71,7 +71,7 @@ span {
   height: 15px;
   background: #ce4233;
   position: absolute;
-  animation: load 0.7s infinite alternate ease-in-out;
+  animation: load 2s infinite alternate ease-in-out;
 }
 .loader::before {
   top: 0;
